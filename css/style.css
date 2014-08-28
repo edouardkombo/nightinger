@@ -181,6 +181,15 @@ h6 { font-size: 16px; }
 	color:#000;
 }
 
+.lead2 {
+	font-family:'Raleway', sans-serif; 
+	font-size: 35px;
+	font-weight: 300;
+	line-height: 45px;
+	margin-bottom: 45px;
+	color:#FFF;
+}
+
 p { margin-bottom: 20px; color: #000; }
 
 #single h1 {font-family: 'Raleway', sans-serif;
@@ -571,7 +580,7 @@ body.royal_loader { background: none!important; visibility: hidden!important; }
     -o-background-size: cover!important; 
     background-size: cover!important;
 	padding: 0 0;
-	height: 450px;
+	height: 900px;
 }
 #milestones .well h1 {
 	margin: 0 auto;
