@@ -615,6 +615,7 @@ body.royal_loader { background: none!important; visibility: hidden!important; }
 	padding: 0 0;
 	height: 900px;
 }
+/*
 #milestones .well h1 {
 	margin: 0 auto;
 	font-size: 35px!important;
@@ -626,7 +627,7 @@ body.royal_loader { background: none!important; visibility: hidden!important; }
 	text-transform: uppercase;
 	padding-top: 90px;
 	text-shadow: 0px 1px 1px rgba(0,0,0,0.3); 
-}
+}*/
 .counter { 
 	padding: 10px 0 0;
 	font-size: 70px;

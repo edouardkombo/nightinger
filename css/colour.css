@@ -28,7 +28,8 @@ blockquote { border-left:4px solid #0f7d7e!important;  }
 /*  ---------------------------------------------------------------
   	SERVICE ICONS
     --------------------------------------------------------------- */
-.service { background: #0f7d7e!important; }
+.service { background: #fff!important; }
+.service i { color: #000; }
 
 /*  ---------------------------------------------------------------
   	PROGRESS BARS/SKILL BARS
