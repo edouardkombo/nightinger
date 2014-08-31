@@ -91,7 +91,9 @@ $(window).bind('load', function () {
 		{
 			$('#charts .well').parallax("50%", 0.3);
 			$('#milestones .well').parallax("50%", 0.3);
-			$('#work .well').parallax("50%", 0.3);
+                        $('#etablissements').parallax("50%", 0.3);
+                        $('#commerces').parallax("80%", 0.3);
+			$('#work .well').parallax("80%", 0.3);
 			$('#clients_parallax .well').parallax("50%", 0.3);
 		}
 	}	

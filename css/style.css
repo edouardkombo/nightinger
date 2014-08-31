@@ -77,8 +77,8 @@ a {
 .marg-top-minus25 { margin-top: -25px; }
 
 /**** SECTION PADDINGS ****/
-#about, #team, #work, #price, #contact { padding-top: 80px; background:#32b5ed; }
-section { background:#32b5ed; }
+#about, #team, #work, #price, #contact { padding-top: 80px; background:#000; }
+section { background:#000; }
 
 /** BUTTONS **/
 .btn {
@@ -155,7 +155,7 @@ blockquote.testimonial_blockquote p {
 /*  ---------------------------------------------------------------
  	TYPOGRAPHY
     --------------------------------------------------------------- */
-h1, h2, h3,h4,h5,h6 { font-family: 'Raleway', sans-serif; color:#000; font-weight: bold; }
+h1, h2, h3,h4,h5,h6 { font-family: 'Raleway', sans-serif; color:#FFF; font-weight: bold; }
 h1 {
 	font-weight: 700;
 	font-size: 130px;
@@ -190,7 +190,7 @@ h6 { font-size: 16px; }
 	color:#FFF;
 }
 
-p { margin-bottom: 20px; color: #000; }
+p { margin-bottom: 20px; color: #FFF; }
 
 #single h1 {font-family: 'Raleway', sans-serif;
 	font-weight: 700;
@@ -568,6 +568,39 @@ body.royal_loader { background: none!important; visibility: hidden!important; }
 /*-----------------------------------------------------------------------------------*/
 /*	05: MILESTONES, PARALLAX WORK QUOTE & VIDEO SECTION
 /*-----------------------------------------------------------------------------------*/	
+
+#commerces { 
+    background: url(../img/social_shop.jpg) 50% 0% fixed no-repeat;
+    background-position: top center;
+    -webkit-background-size: cover!important; 
+    -moz-background-size: cover!important;  
+    -o-background-size: cover!important; 
+    background-size: cover!important;
+    padding: 0 0;
+    height: 900px;
+}
+
+#etablissements { 
+    background: url(../img/nightclub.jpg) 50% 0% fixed no-repeat;
+    background-position: top center;
+    -webkit-background-size: cover!important; 
+    -moz-background-size: cover!important;  
+    -o-background-size: cover!important; 
+    background-size: cover!important;
+    padding: 0 0;
+    height: auto;
+}
+
+#howto { 
+    background: url(../img/selfie.jpg) 50% 0% fixed no-repeat;
+    background-position: top center;
+    -webkit-background-size: cover!important; 
+    -moz-background-size: cover!important;  
+    -o-background-size: cover!important; 
+    background-size: cover!important;
+    padding: 0 0;
+    height: auto;
+}
 
 /*--------------------------------*/
 /*	MILESTONES
